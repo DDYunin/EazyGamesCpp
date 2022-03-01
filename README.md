@@ -1,1 +1,1 @@
-# EazyGamesC-
+# EazyGamesCpp
